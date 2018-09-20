@@ -1,4 +1,4 @@
-# SIPp by Examples
+# SIPp by Examples - customising to suit Freeswitch usecases
 
 ## Introduction
 
